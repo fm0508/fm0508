@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francisco
-- 🌱 I’m currently learning HTML, CSS, Java and C
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Java and C
 - 📫 You can reach me through my discord @mightyangelpt
 
 <!---
